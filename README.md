@@ -83,7 +83,7 @@ That script was deleted in 6f2b9b3, so the command always fails.
 ## Install
 
 ```bash
-git clone https://github.com/<you>/fresh-clone ~/.claude/skills/fresh-clone
+git clone https://github.com/vSkyfall/fresh-clone ~/.claude/skills/fresh-clone
 ```
 
 That's it. Claude Code picks it up automatically. Or install it just for one project by cloning into `.claude/skills/fresh-clone` inside that repo.
